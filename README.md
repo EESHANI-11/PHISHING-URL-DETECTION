@@ -36,7 +36,7 @@ python app.py
 ```
 
 
-### 🧑‍💻 Author###
+### 🧑‍💻 Author 
 👤 Eeshani
 GitHub: @EESHANI-11
 
